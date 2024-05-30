@@ -4,7 +4,7 @@ El repositorio contiene un programa que hace búsquedas semánticas (embeddings)
 de libros a partir de una descripción que el usuario hace sobre lo que desea leer, nombre de autor y género literario. 
 La base de datos fue construida mediante web scraping utilizando la biblioteca Selenium.
 
-## DESCRIPCIÓN DE FUNCIONAMIENTO 
+## DESCRIPCIÓN PARA IMPLEMENTACIÓN
 
 El programa funciona con las base de datos que se encuentra en el repositorios y fue construida con con el archivo 
 PLN_TP1_web_scraping.ipynb. El archivo del programa es PLN_TP1_programa_libros.ipynb, el cual, para su funcionamiento
